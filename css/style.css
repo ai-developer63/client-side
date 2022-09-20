@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap);
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css");
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.image-card {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    width: 100%;
+    min-height:400px;
+    background-color: red;
+    position: absolute;
+}
+
+.card-1{
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kU0nTJe_Obn75IH1EGJCFAHaEK%26pid%3DApi&f=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-2 {
+    background-color:green;
+    right: -20px;
+    top:20px;
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kU0nTJe_Obn75IH1EGJCFAHaEK%26pid%3DApi&f=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-3 {
+    background-color:black;
+    right: -20px;
+    top:-20px;
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kU0nTJe_Obn75IH1EGJCFAHaEK%26pid%3DApi&f=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
